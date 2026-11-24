@@ -1,0 +1,230 @@
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/OLF_Daties+Packaging_+Carton_1.1.pdf",
+"food_category": "18.1.3",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Tata_sampann_Dashaamrit_Berries_mix__Sachet-Pouch_200_gm_7976892_V8_Aw-01+Json_1785164197__5ce600c5_f6338ed9.pdf",
+"food_category": "4.1.2.7",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Tata_salt_Himalayan_Rock_Salt_Crystal_Qr_code__Sachet-Pouch_1_KG_8162075_V8S1.pdf",
+"food_category": "12.1.1",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Tetley_Slim_Care_Green_Tea_Orange_Lime_With_band_Seal_200_ml.pdf",
+"food_category": "14.1.4.2",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Amul+Moti+Homogenized+Toned+Milk.pdf",
+"food_category": "1.1.1.1",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Ashoka+Aloo+Paratha+4+Pcs.+Net+Wt.+400g+(USA_NZL).pdf",
+"food_category": "16",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Ashoka+Amritsari+Kulcha+4+Pcs.+Net+Wt.+320g+(USA).pdf",
+"food_category": "16",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Chings+Chilli+Oil+170g+AW+(Schezwan).jpg",
+"food_category": "12.6.1",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Corn+flakes_AI+Label+Val+testing.pdf",
+"food_category": "6.3",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Waffy_AI+Label+Val+Testing.pdf",
+"food_category": "18.2.1",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Eggless+chocochip+brownie.jpg",
+"food_category": "7.2.1",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Ella+Foods+-+Sona+Masuri+Rice+Bag+5Kg-1+(1).pdf",
+"food_category": "6.1",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Health+factory+FOP+2.pdf",
+"food_category": "7.1",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/FOP+Poha+1.pdf",
+"food_category": "6.4",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/JC-HAZELNUT+SPREAD-LABLE-final.pdf",
+"food_category": "5.1.3",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Jindal+dark+Orange.pdf",
+"food_category": "5.1.3",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/KAPIVA+PURE+FOODS+GHEE.pdf",
+"food_category": "2.1.1",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Kayem_Quaker+Oats+Masala+Magic+Rs+189_400g_110X250mm_AI_Chroma_160281648+2+(2).pdf",
+"food_category": "6.3",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Kayem_Quaker+Oats+Masala+Magic+Rs+189_400g_110X250mm_AI_Chroma_160281648+2+(2).pdf",
+"food_category": "6.3",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Jindal+dark+Orange.pdf",
+"food_category": "5.1.3",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/JC-HAZELNUT+SPREAD-LABLE-final.pdf",
+"food_category": "5.1.3",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Ashoka+Amritsari+Kulcha+4+Pcs.+Net+Wt.+320g+(USA).pdf",
+"food_category": "16",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Chatgpt+Brenan's+Irish+Soda+bread.png",
+"food_category": "7.1.1.2",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/TATA_Lyfe__Tender_Coconut_Water__Label_200_ml.pdf",
+"food_category": "14.1.2.1",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Ashwagandha_Honey_125g.pdf",
+"food_category": "11.5",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/OLF_Daties+Packaging_+Carton_1.1.pdf",
+"food_category": "18.1.3",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Chings+Chilli+Oil+170g+AW+(Schezwan).jpg",
+"food_category": "12.6.1",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Bru+Super+Strong+(Flavoured+Instant+Coffee-Chicory+Mix).pdf",
+"food_category": "14.1.5",
+
+"image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Mango_drink__1__AW.png",
+"food_category": "14.1.2.1"
+
+{
+  "event_id": "barcode_rock_run1",
+    "image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Tata_salt_Himalayan_Rock_Salt_Crystal_Qr_code__Sachet-Pouch_1_KG_8162075_V8S1.pdf",
+    "country": "india",
+    "food_category": "12.1.1",
+    "is_retail": true,
+    "new_validate": true,
+    "pack_shape": "rectangle",
+    "unit": "cm",
+    "pack_dimension": null,
+    "label_dimension": null,
+    "spec_url": null
+}
+
+Request, food_category, image_url
+Quaker Oats Masala Magic, 6.3, https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Kayem_Quaker+Oats+Masala+Magic+Rs+189_400g_110X250mm_AI_Chroma_160281648+2+(2).pdf
+protiviti Catch Chocolate Flavoured, 1.1.2, https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Catch_Chocolate_Flavoured.pdf
+noise jam filled biscuits, 7.2.1, https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Jam_filled_Biscuits_Pack.png
+SMOOR Wholesome Multigrain Bread, 7.1.1.1, https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/SMOOR-Multigrain_bread.jpg
+Tata Coffee, 14.1.5, https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Tata_Coffee_All_in_1_Premix_Caramel_Flavour.pdf
+cold coffee theobroma, 1.1.2, https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Cold+Coffee_Classic.pdf
+Tata Soulfull Millet Muesli Slim Care, 6.3, https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Tata_Soulfull_Millet_Muesli_Slim_Care__Sachet-Pouch_400_g_8102855_V1S10.pdf
+Irish soda Bread, 7.1.1.1, https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Chatgpt+Brenan's+Irish+Soda+bread.png
+mango bliss, 14.1.2.1, https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Mango_drink__1__AW.png
+Kissan jam, 4.1.2.5, https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Kissan+Mango+Jam.pdf
+Bru Super Strong, 14.1.5, https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Bru+Super+Strong+(Flavoured+Instant+Coffee-Chicory+Mix).pdf
+mango gummies, 5.2.2, https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Mango+Bites+Gummy+Pouch+Packaging.png
+
+{
+  "event_id": "barcode_cake_run1",
+    "image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Chocolate_Cake_Pack.png",
+    "country": "india",
+    "food_category": "7.2.1",
+    "is_retail": true,
+    "new_validate": true,
+    "pack_shape": "rectangle",
+    "unit": "cm",
+    "pack_dimension": null,
+    "label_dimension": null,
+    "spec_url": null
+}
+
+{
+    "event_id": "validate_museli_run6",
+    "image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Tata_Soulfull_Millet_Muesli_Slim_Care__Sachet-Pouch_400_g_8102855_V1S10.pdf",
+    "country": "india",
+    "food_category": "6.3",
+    "is_retail": true,
+    "new_validate": true,
+    "pack_shape": "rectangle",
+    "unit": "cm",
+    "pack_dimension": null,
+    "label_dimension": null,
+    "spec_url": null
+}
+
+{
+  "event_id": "local_jam_biscuit_run1",
+    "image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Mango+Bites+Gummy+Pouch+Packaging.png",
+    "country": "india",
+    "food_category": "7.2.1",
+    "is_retail": true,
+    "new_validate": true,
+    "pack_shape": "rectangle",
+    "unit": "cm",
+    "pack_dimension": null,
+    "label_dimension": null,
+    "spec_url": null
+}
+
+{
+  "event_id": "local_garlic_mayo_run2",
+    "image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Cheesy_Garlic_Mayo_11_1792588191__16786ae1_e8e3237c.pdf",
+    "country": "india",
+    "food_category": "12.6.1",
+    "is_retail": true,
+    "new_validate": true,
+    "pack_shape": "rectangle",
+    "unit": "cm",
+    "pack_dimension": null,
+    "label_dimension": null,
+    "spec_url": null
+}
+
+{
+    "event_id": "pydantic_flaxseed_run2",
+    "image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/flax+seed+100.pdf",
+    "country": "india",
+    "food_category": "4.1.2.2",
+    "is_retail": true,
+    "new_validate": true,
+    "pack_shape": "rectangle",
+    "unit": "cm",
+    "pack_dimension": null,
+    "label_dimension": null,
+    "spec_url": null
+}
+
+{
+  "event_id": "pydantic_thoe_coffee_run1",
+    "image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Cold+Coffee_Classic.pdf",
+    "country": "india",
+    "food_category": "1.1.2",
+    "is_retail": true,
+    "new_validate": true,
+    "pack_shape": "rectangle",
+    "unit": "cm",
+    "pack_dimension": null,
+    "label_dimension": null,
+    "spec_url": null
+}
+
+{
+  "event_id": "pydantic_noice_jam_run1",
+    "image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/Jam_filled_Biscuits_Pack.png",
+    "country": "india",
+    "food_category": "7.2.1",
+    "is_retail": true,
+    "new_validate": true,
+    "pack_shape": "rectangle",
+    "unit": "cm",
+    "pack_dimension": null,
+    "label_dimension": null,
+    "spec_url": null
+}
+
+{
+  "event_id": "rusk_v5_run1",
+  "image_url": "https://temp-ai-label-mandar.s3.ap-south-1.amazonaws.com/_Soulfull_No_Maida_Rusk_Elaichi_New_KLD_with_QR_Code_Sachet-Pouch_45g-5pcx9g-_8098757_V1S4.pdf",
+  "business_id": "8580af16-1619-456c-83e5-591311f766da",
+  "brand_id": "890041ef-6826-43c6-94d3-d68f413648c1",
+  "food_category": "7.1.4",
+  "country": "India",
+  "is_retail": true,
+  "new_validate": true,
+  "product_name": "Soulfull No Maida Rusk v4",
+  "product_code": "ZC01Gemini",
+  "pack_shape": "rectangle",
+  "unit": "mm",
+  "pack_dimension": { "height": 120, "width": 65 },
+  "label_dimension": { "height": 120, "width": 65 },
+  "extraction_backend": "gemini"
+}
